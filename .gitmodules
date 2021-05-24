@@ -1,0 +1,12 @@
+[submodule "xmonad-contrib"]
+	path = xmonad-contrib
+	url = ssh://git@github.com/xmonad/xmonad-contrib.git
+[submodule "xmonad"]
+	path = xmonad
+	url = ssh://git@github.com/xmonad/xmonad.git
+[submodule "X11"]
+	path = X11
+	url = ssh://git@github.com/xmonad/X11.git
+[submodule "xmobar"]
+	path = xmobar
+	url = ssh://git@github.com/jaor/xmobar.git

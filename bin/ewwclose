@@ -1,0 +1,2 @@
+#!/bin/bash
+exec /storage/sfox/SystemConfig/dkenv/vuli/bin/eww close-all
